@@ -46,7 +46,7 @@
 </p>
 <hr>
 
-<h4>⌨️&nbsp;&nbsp;&nbsp;Frameworks</h4>
+<h4>🧰&nbsp;&nbsp;&nbsp;Frameworks</h4>
 <p >
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=" />&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=222222&logo=React&logoColor=61DAFB&label=" />&nbsp;&nbsp;
