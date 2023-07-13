@@ -17,7 +17,7 @@
 <p >
    Me esfuerzo en la <strong>mejora constante</strong> y en <strong>mantenerme actualizado en mis habilidades y conocimientos</strong>. Pienso que la educación y la formación son clave para estar al día en una industria en continua evolución.
 </p>
-
+<br>
 <p align='center'>
   <a href="https://linkedin.yone.dev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.yone.dev"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
