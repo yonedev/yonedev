@@ -79,5 +79,5 @@
 <hr>  
 <h4>🧑🏻‍💻&nbsp;&nbsp;&nbsp;Mis proyectos y trayectoria</h4>
 <p>
-   Puedes visitar la sección <a href="https://yone.dev/proyectos/" target="_blank">"Proyectos"</a> y <a href="https://yone.dev/trayectoria/" target="_blank">"Trayectoria"</a> en mi sitio web para conocer mi trabajo como desarrollador de software. Si quieres conocer los principios que guían a Yonedev, puedes visitar <a href="https://yone.dev/principios/" target="_blank">la sección específica para tal caso</a>.
+   Puedes visitar la sección <a href="https://yone.dev/proyectos/" target="_blank">"Proyectos"</a> y <a href="https://yone.dev/trayectoria/" target="_blank">"Trayectoria"</a> en mi sitio web para conocer mi trabajo como desarrollador de software. Si quieres conocer <a href="https://yone.dev/principios/" target="_blank">los principios que guían a Yonedev</a>, puedes visitar la sección específica para tal caso.
   </p>
