@@ -1,16 +1,20 @@
 [![Header Yonedev](https://res.cloudinary.com/dcllw95id/images/v1689187983/yonedev/Yonedev-Github/Yonedev-Github.png?_i=AA)](https://yone.dev/)
 
+<!--
+  README.md basado en el originla de David Flores https://github.com/dfloresdev/dfloresdev
+-->
+  
 <h1 align='center'>Hola 👋, soy Yoné 🧑🏻‍💻</h1>
 
-<p align='center'>
+<p >
   Como <strong>desarrollador de software freelance</strong>, me complace ofrecer soluciones tecnológicas personalizadas y de alta calidad que satisfagan las necesidades de mis clientes. Valoro la importancia de comprender a fondo los objetivos y exigencias de cada proyecto, para poder ofrecer soluciones que ayuden a lograr el éxito de la iniciativa.
 </p>
 
-<p align='center'>
+<p >
    Asumo el compromiso de trabajar con <strong>pasión, ética, empatía y profesionalidad</strong>, manteniendo una comunicación abierta y transparente con mis clientes. La <strong>colaboración y el trabajo en equipo</strong> son fundamentales para lograr buenos resultados en cualquier iniciativa.
 </p>
 
-<p align='center'>
+<p >
    Me esfuerzo en la <strong>mejora constante</strong> y en <strong>mantenerme actualizado en mis habilidades y conocimientos</strong>. Pienso que la educación y la formación son clave para estar al día en una industria en continua evolución.
 </p>
 
@@ -65,4 +69,15 @@
 
 <hr>
 
-<h4>👨‍💻&nbsp;&nbsp;&nbsp;Mis Proyectos</h4>
+<h4>🤯&nbsp;&nbsp;&nbsp;¿Dónde están mis repositorios?</h4>
+  <p>
+    Tengo una gran cantidad de repositorios privados en Bitbucket. Esto se debe a que me he dedicado al desarrollo de software para empresas y personas con las que tengo acuerdos de confidencialidad y su código no es público. Sin embargo, en los últimos tiempos he ido enriqueciendo mi sitio web con la sección <a href="https://yone.dev/snippets/" target="_blank">"Fragmentos de código"</a>, donde comparto tips rápidos de frameworks, lenguajes y herramientas con las que trabajo.
+  </p>
+  <p>
+    Pronto publicaré algunos recursos de código que tengo para mi trabajo y que me gustaría compartir con la comunidad. Esto me permitirá llegar a más personas y ayudarlas a aprender sobre desarrollo de software.
+  </p>
+<hr>  
+<h4>🧑🏻‍💻&nbsp;&nbsp;&nbsp;Mis proyectos y trayectoria</h4>
+<p>
+   Puedes visitar la sección <a href="https://yone.dev/proyectos/" target="_blank">"Proyectos"</a> y <a href="https://yone.dev/trayectoria/" target="_blank">"Trayectoria"</a> en mi sitio web para conocer mi trabajo como desarrollador de software. Si quieres conocer los principios que guían a Yonedev, puedes visitar <a href="https://yone.dev/principios/" target="_blank">la sección específica para tal caso</a>.
+  </p>
