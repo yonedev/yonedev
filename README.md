@@ -11,7 +11,7 @@
 </p>
 
 <p >
-   Asumo el compromiso de trabajar con <strong>pasión, ética, empatía y profesionalidad</strong>, manteniendo una comunicación abierta y transparente con mis clientes. La <strong>colaboración y el trabajo en equipo</strong> son fundamentales para lograr buenos resultados en cualquier iniciativa.
+   Asumo el compromiso de trabajar con <strong>pasión, ética, empatía y profesionalidad</strong>, manteniendo una comunicación abierta y transparente con mis clientes. La <strong>colaboración y el trabajo en equipo</strong> son fundamentales para lograr buenos resultados en cualquier proyecto.
 </p>
 
 <p >
